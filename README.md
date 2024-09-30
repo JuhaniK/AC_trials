@@ -1,7 +1,5 @@
 # About this repo
-A repository for the code used to create the results presented in the "Confidence-based Estimators for Predictive Performance in Model Monitoring" paper to be published in JAIR.
-
-Cite our work with:
+A repository for the code used to create the results presented in the "Confidence-based Estimators for Predictive Performance in Model Monitoring" paper to be published in JAIR. If you use this code in your research, please cite:
 ```bibtex
 @misc{kivimäki2024confidencebasedestimatorspredictiveperformance,
       title={Confidence-based Estimators for Predictive Performance in Model Monitoring}, 
